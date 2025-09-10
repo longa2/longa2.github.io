@@ -5,7 +5,7 @@
     "picture": "https://github.com/kambergjohnson.png",
     "email": "longa2@hawaii.edu",
     "website": "https://longa2.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "summary": "I am studying for a B.S. in Computer Science with a specialization in Cybersecurity in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "profiles": [
       { "network": "github", "username": "longa2", "url": "http://github.com/longa2" },
       { "network": "linkedin", "username": "Allen Long", "url": "https://www.linkedin.com/in/allen-long-735a331b2/" }
@@ -14,15 +14,12 @@
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Gaming" }
+    { "name": "Computers" }
   ],
   "skills": [
     {
       "name": "Languages",
       "keywords": [ "C", "C++", "Java", "Javascript" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
@@ -38,54 +35,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Tanaka of Tokyo",
+      "position": "Host",
+      "website": "https://www.tanakaoftokyo.com/en/main",
+      "startDate": "2025-06-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Restaurant Host",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Welcome and serve guests with utmost respect",
+        "Manage public inquiries and guest relations"
       ]
     }
   ],

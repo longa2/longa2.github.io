@@ -7,7 +7,7 @@ date: 2025-09-10
 published: true
 labels:
   - Software Engineering
-  - Cybersecurity
+  - Interests
 ---
 
 

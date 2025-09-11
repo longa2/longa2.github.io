@@ -11,6 +11,7 @@ labels:
   - Typescript
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/a5tk8g.jpg">
 
 *Something here (maybe)*
 

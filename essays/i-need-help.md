@@ -150,8 +150,8 @@ Actual :When I say to google assistant "Hey Google, Open groceries from TestAppD
 
 [Source](https://stackoverflow.com/questions/79762517/talk-to-my-android-app-directly-using-google-assistant-to-complete-a-easy-task)
 
-Despite being posted the same day as the previous post, this user has not just garnered more views due to a more interesting title, but more importantly, received a reply answer as well. This indicates that a more properly-phrased question gives way for more clarity in the problem and the 
+Despite being posted the same day as the previous post, this user has already garnered a reply answer. This indicates that with proper context and a properly-phrased question gives way for more clarity in the problem and thus would draw more people to answer
 
 ## Conclusion
 
-The juxtaposition is clear to see in the way both users phrased their questions. 
+The juxtaposition is clear to see in both users' posts. The former, albeit with an honest question, asks a question in regards to a fundamental concept of classes. The latter, however, provides not only detailed context of what their problem is, but also indicates that their expectation was not the result they had hoped to achieve. In general, asking questions is always a sign of wanting to learn, solve, and overcome the many challenges in life. However, especially in this era of widely-available information on the internet, there needs to be a clear and concise intention in solving the problem - otherwise, people that are more knowledgeable and intelligent than you are will not give you and your issue the light of day.

@@ -70,6 +70,7 @@ Where I'm stuck is summing up the totals across all machines:
 The first debug outputs each machine's total, as expected.
 
 I then expected to pipe the output of json_query into sum, but the json_query returns a None (which debug then outputs as empty string).
+
 [Source](https://stackoverflow.com/questions/79762347/how-to-sum-up-numbers-across-inventory)
 
 Despite being posted the same day as the previous post, this user has not just garnered more views due to a more interesting title, but more importantly, received a reply answer as well. This indicates that a more properly-phrased question gives way for more clarity in the problem and the 

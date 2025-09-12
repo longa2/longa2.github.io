@@ -22,11 +22,10 @@ Questions have always been a long-standing way of searching for answers to the p
 
 When someone asks a question, they are seeking a solution. Ususally, it is so. But sometimes, people ask not to seek a solution to a problem, but rather in redundancy. Take for example this user:
 
-```
-Question
 In the example below, childOfNumbers is correctly inferred to be Child<number>. However, my issue is childOfStrings is inferred to be Base<string>. Is it possible to have a parent return the subclasses type such that childOfStrings is inferred to being Child<string>?
 
 Code
+```
 abstract class Base<T> {
     public items: T[] = []
     constructor(items: T[] =[]) {

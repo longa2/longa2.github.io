@@ -65,7 +65,7 @@ To that end, I find the matching files first, and invoke awk to parse the CSV co
 
 Where I'm stuck is summing up the totals across all machines:
 
-```
+
 - hosts: all
   gather_facts: False
   tasks:
@@ -85,7 +85,7 @@ Where I'm stuck is summing up the totals across all machines:
       msg: >-
         {{ hostvars | json_query('[].total.stdout') }}
     run_once: True
-```
+
 
 The first debug outputs each machine's total, as expected.
 

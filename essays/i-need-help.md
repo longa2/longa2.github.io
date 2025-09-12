@@ -57,7 +57,40 @@ The question posed above seems to be a fair question, no? However, why is it tha
 
 Let's take a look at another user's question:
 
+### How to sum up numbers across inventory?
 
+CSV files on each host contain certain figures and I need to add them all up.
+
+To that end, I find the matching files first, and invoke awk to parse the CSV content and output the per-host total.
+
+Where I'm stuck is summing up the totals across all machines:
+
+```
+- hosts: all
+  gather_facts: False
+  tasks:
+  - name: Find input
+    find:
+      path: /somepath
+      pattern: 'logbatch*.txt'
+      recurse: True
+    register: found
+  - set_fact:
+      inputs: "{{ found.files | map(attribute = 'path') }}"
+  - command: >-
+      awk -F, '{ t += $NF } END { print t }' {{ inputs | join(' ') }}
+    register: total
+  - debug: var=total.stdout
+  - debug:
+      msg: >-
+        {{ hostvars | json_query('[].total.stdout') }}
+    run_once: True
+```
+
+The first debug outputs each machine's total, as expected.
+
+I then expected to pipe the output of json_query into sum, but the json_query returns a None (which debug then outputs as empty string).
+[Source](https://stackoverflow.com/questions/79762347/how-to-sum-up-numbers-across-inventory)
 
 Despite being posted the same day as the previous post, this user has not just garnered more views due to a more interesting title, but more importantly, received a reply answer as well. This indicates that a more properly-phrased question gives way for more clarity in the problem and the 
 

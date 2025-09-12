@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Marching Band"
 date: 2016 - 2019
-published: true
+published: false
 labels:
   - Music
   - Performance

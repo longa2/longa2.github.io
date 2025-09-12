@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Similar, Yet Different"
+title: "The Same Picture"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
 published: true

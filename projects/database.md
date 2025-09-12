@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/database.jpg
-title: "Cotton"
-date: 2014
+title: "Database"
+date: 2025
 published: true
 labels:
   - ICS 212

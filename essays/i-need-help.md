@@ -11,6 +11,7 @@ labels:
   - Questions
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/i-need-help-quote.jpg">
 
 *"Never underestimate the power of stupid people in large groups." ~ George Carlin*
 

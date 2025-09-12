@@ -7,6 +7,7 @@ date: 2016 - 2019
 published: true
 labels:
   - Music
+  - Performance
   - Athletics
 summary: "I performed as part of the Moanalua High School Marching Band"
 ---

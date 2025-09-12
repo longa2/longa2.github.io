@@ -83,11 +83,72 @@ shortcutHelper = ShortcutHelper(this)
         }
 ```
 
-The first debug outputs each machine's total, as expected.
+In My ShortcutHelper
 
-I then expected to pipe the output of ```json_query``` into ```sum```, but the ```json_query``` returns a ```None``` (which ```debug``` then outputs as empty string).
+```
+fun pushDynamicShortcut(itemName: String) {
+        val shortcutId = "shortcut_$itemName"
 
-[Source](https://stackoverflow.com/questions/79762347/how-to-sum-up-numbers-across-inventory)
+        val intent = Intent(context, MainActivity::class.java).apply {
+            action = Intent.ACTION_VIEW
+            putExtra("item", itemName)
+        }
+
+        val shortcut = ShortcutInfoCompat.Builder(context, shortcutId)
+            .setShortLabel(itemName)
+            .setLongLabel("Open \"$itemName\" from TestAppDemo")
+            .addCapabilityBinding(
+                "actions.intent.GET_THING",
+                "thing.name",
+                listOf(itemName)
+            )
+            .setIntent(intent)
+            .build()
+
+        ShortcutManagerCompat.pushDynamicShortcut(context, shortcut)
+    }
+```
+
+Also created Shortcut to use capabilities
+
+```
+ <capability android:name="actions.intent.GET_THING">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.testappdemo"
+            android:targetClass="com.example.testappdemo.MainActivity">
+            <parameter android:name="thing.name"
+                android:key="item" />
+        </intent>
+    </capability>
+```
+
+In Manifest file
+
+```
+<meta-data
+            android:name="android.app.shortcuts"
+            android:resource="@xml/shortcuts" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+```
+
+To achieve this I have used BII (Build In Intent) which is * "actions.intent.GET_THING"* to develop a demo, but that was also not producing the desired results. For example, we could just say "Hey Google, Open groceries from TestAppDemo" to open the task, but it's not opening that screen in the app or I can say it's not giving the output
+
+So my question is, is it possible to directly interact with my app and have it do a very simple task?
+
+Expectation: When I say to google assistant "Hey Google, Open groceries from TestAppDemo" it should navigate to particular groceries screen
+
+Actual :When I say to google assistant "Hey Google, Open groceries from TestAppDemo" it is not navigating to the groceries screen
+
+[Source](https://stackoverflow.com/questions/79762517/talk-to-my-android-app-directly-using-google-assistant-to-complete-a-easy-task)
 
 Despite being posted the same day as the previous post, this user has not just garnered more views due to a more interesting title, but more importantly, received a reply answer as well. This indicates that a more properly-phrased question gives way for more clarity in the problem and the 
 

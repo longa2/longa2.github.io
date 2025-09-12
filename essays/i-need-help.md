@@ -65,27 +65,7 @@ To that end, I find the matching files first, and invoke awk to parse the CSV co
 
 Where I'm stuck is summing up the totals across all machines:
 
-```
-- hosts: all
-  gather_facts: False
-  tasks:
-  - name: Find input
-    find:
-      path: /somepath
-      pattern: 'logbatch*.txt'
-      recurse: True
-    register: found
-  - set_fact:
-      inputs: "{{ found.files | map(attribute = 'path') }}"
-  - command: >-
-      awk -F, '{ t += $NF } END { print t }' {{ inputs | join(' ') }}
-    register: total
-  - debug: var=total.stdout
-  - debug:
-      msg: >-
-        {{ hostvars | json_query('[].total.stdout') }}
-    run_once: True
-```
+
 
 The first debug outputs each machine's total, as expected.
 

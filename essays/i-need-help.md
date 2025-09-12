@@ -48,3 +48,13 @@ const childOfNumbers = new Child<number>([1,2,3]);
 const childOfStrings = childOfNumbers.map((v,i) => v.toString())
 ```
 [Source](https://stackoverflow.com/questions/79762418/return-subclass-type-from-parent-function)
+
+The question posed above seems to be a fair question, no? However, why is it that no one responded to this post - let alone an answer to the problem? The reason is that the user did not show to be an individual who is willing to learn. Rather, the context provided by the user shows that they ran into a problem and wants to know the solution with no attempt in finding the answer themselves. Simply put, this is tantamount to laziness. As such, no reply was ever made despite the significant number of online users that had viewed it and could have easily provided an answer.
+
+## The Right Way
+
+
+
+## Conclusion
+
+

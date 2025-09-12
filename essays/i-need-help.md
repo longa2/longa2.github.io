@@ -57,34 +57,30 @@ The question posed above seems to be a fair question, no? However, why is it tha
 
 Let's take a look at another user's question:
 
-### How to sum up numbers across inventory?
+### Talk to my Android app directly using Google Assistant to complete a easy task
 
-CSV files on each host contain certain figures and I need to add them all up.
+I have created simple app to integrate the Google Assistant which is named as TestAppDemo. I have added simple screen where I have one edittext where I am entering the random things like groceries or anything we can add as per our convenience. I want to say to google *"Hey Google, Open groceries from TestAppDemo" *
 
-To that end, I find the matching files first, and invoke ```awk``` to parse the CSV content and output the per-host total.
-
-Where I'm stuck is summing up the totals across all machines:
+I have created Simple MainActivity which uses the ShortcutHelper class
 
 ```
-- hosts: all
-  gather_facts: False
-  tasks:
-  - name: Find input
-    find:
-      path: /somepath
-      pattern: 'logbatch*.txt'
-      recurse: True
-    register: found
-  - set_fact:
-      inputs: "{{ found.files | map(attribute = 'path') }}"
-  - command: >-
-      awk -F, '{ t += $NF } END { print t }' {{ inputs | join(' ') }}
-    register: total
-  - debug: var=total.stdout
-  - debug:
-      msg: >-
-        {{ hostvars | json_query('[].total.stdout') }}
-    run_once: True
+shortcutHelper = ShortcutHelper(this)
+
+        binding.btnCreateShortcut.setOnClickListener {
+            val itemName = binding.inputItem.text.toString().trim()
+            if (itemName.isNotEmpty()) {
+                shortcutHelper.pushDynamicShortcut(itemName)
+                Toast.makeText(this, "Shortcut created for \"$itemName\"", Toast.LENGTH_SHORT).show()
+                binding.inputItem.text.clear()
+            } else {
+                Toast.makeText(this, "Please enter an item name", Toast.LENGTH_SHORT).show()
+            }
+        }
+
+        // If started via shortcut, display incoming "item" parameter
+        intent.getStringExtra("item")?.let { item ->
+            Toast.makeText(this, "Opened via shortcut for item: \"$item\"", Toast.LENGTH_LONG).show()
+        }
 ```
 
 The first debug outputs each machine's total, as expected.

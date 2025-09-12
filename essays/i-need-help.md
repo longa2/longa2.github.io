@@ -61,7 +61,7 @@ Let's take a look at another user's question:
 
 CSV files on each host contain certain figures and I need to add them all up.
 
-To that end, I find the matching files first, and invoke awk to parse the CSV content and output the per-host total.
+To that end, I find the matching files first, and invoke ```awk``` to parse the CSV content and output the per-host total.
 
 Where I'm stuck is summing up the totals across all machines:
 
@@ -69,7 +69,7 @@ Where I'm stuck is summing up the totals across all machines:
 
 The first debug outputs each machine's total, as expected.
 
-I then expected to pipe the output of json_query into sum, but the json_query returns a None (which debug then outputs as empty string).
+I then expected to pipe the output of ```json_query``` into ```sum```, but the ```json_query``` returns a ```None``` (which ```debug``` then outputs as empty string).
 
 [Source](https://stackoverflow.com/questions/79762347/how-to-sum-up-numbers-across-inventory)
 

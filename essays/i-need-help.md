@@ -23,7 +23,7 @@ Questions have always been a long-standing way of searching for answers to the p
 
 When someone asks a question, they are seeking a solution. Ususally, it is so. But sometimes, people ask not to seek a solution to a problem, but rather in redundancy. Take for example this user:
 
-In the example below, childOfNumbers is correctly inferred to be Child<number>. However, my issue is childOfStrings is inferred to be Base<string>. Is it possible to have a parent return the subclasses type such that childOfStrings is inferred to being Child<string>?
+"In the example below, childOfNumbers is correctly inferred to be Child<number>. However, my issue is childOfStrings is inferred to be Base<string>. Is it possible to have a parent return the subclasses type such that childOfStrings is inferred to being Child<string>?"
 
 Code
 ```
@@ -47,3 +47,4 @@ class Child<T> extends Base<T> {
 const childOfNumbers = new Child<number>([1,2,3]);
 const childOfStrings = childOfNumbers.map((v,i) => v.toString())
 ```
+[Source](https://stackoverflow.com/questions/79762418/return-subclass-type-from-parent-function)

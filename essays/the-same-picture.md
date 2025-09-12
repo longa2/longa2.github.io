@@ -11,7 +11,7 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/a5tk8g.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/the-same-picture.jpg">
 
 *"Corporate needs you to find the difference between this picture and this picture."*
 *Me: "They're the same picture."*

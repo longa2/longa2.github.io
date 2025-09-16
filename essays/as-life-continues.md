@@ -28,3 +28,5 @@ Software brings with it the aptitude for further creation and development of its
 ## Cadence
 
 As I am right now, I am nowhere near enough in truly understanding the vast nature of software development and how intricate security can play in its existence. In general, I do not believe to understand the full scope of security across the long lines of code that many have written. However, as ever-growing as security is, I hope to be able to achieve at least the baseline - and perhaps figure out my specialization in the cybersecurity field - before I graduate.
+
+Edit: This is an edit.

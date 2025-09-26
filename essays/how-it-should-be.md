@@ -11,6 +11,7 @@ labels:
   - Etiquette
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/how-it-should-be-iso.jpg">
 
 *Etiquette: The customary behavior of members of a profession, business, law, or sports team towards each other.*
 

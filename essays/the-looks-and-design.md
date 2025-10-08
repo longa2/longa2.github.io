@@ -15,9 +15,9 @@ labels:
 
 *Design: A graphic representation, especially a detailed plan for construction or manufacture.*
 
-## 1
+## Looks
 
-
+Everybody loves a good image. Whether it be physical looks, or a drawing of some character. People love the logical design of many creations. That of course includes websites and their webpages. A website that has good, appealing designs for its pages will find many users often clicking around just for how well made it is. 
 
 ## 2
 

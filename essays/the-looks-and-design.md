@@ -25,3 +25,4 @@ When building a webpage, there are many tools one can use to develop. In this da
 
 ## The Trouble
 
+Even when Bootstrap was designed to make designing a webpage easier, there are many things that 

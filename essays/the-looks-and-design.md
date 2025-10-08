@@ -11,7 +11,7 @@ labels:
   - HTML
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/how-it-should-be-iso.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/the-looks-and-design-image.jpg">
 
 *Design: A graphic representation, especially a detailed plan for construction or manufacture.*
 

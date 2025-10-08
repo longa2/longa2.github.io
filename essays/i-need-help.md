@@ -150,7 +150,7 @@ Actual :When I say to google assistant "Hey Google, Open groceries from TestAppD
 
 [Source](https://stackoverflow.com/questions/79762517/talk-to-my-android-app-directly-using-google-assistant-to-complete-a-easy-task)
 
-Despite being posted the same day as the previous post, this user has already garnered a reply answer. This indicates that with proper context and a properly-phrased question gives way for more clarity in the problem and thus would draw more people to answer
+Despite being posted the same day as the previous post, this user has already garnered a reply answer. This indicates that with proper context and a properly-phrased question gives way for more clarity in the problem and thus would draw more people to answer.
 
 ## Conclusion
 

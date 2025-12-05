@@ -25,4 +25,4 @@ For my team's project, we utilize the nextjs-application-template to build our a
 
 ## Conclusion
 
-Design patterns are used universally as a way in creating a solution of a proposed problem. If
+Design patterns are used universally as a way to create a solution to a proposed problem. Among every design used across the history of humanity, the prevailing idea of uitilizing designs has always been a consistent choice. As such, for any problem that may arise to challenge our intellect, there will always be a way to solve it, namely using a solution with some form of design.

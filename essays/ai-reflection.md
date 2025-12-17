@@ -10,11 +10,11 @@ labels:
   - ICS314
 ---
 
-I. Introduction
+#Introduction
 
 With the prevelance of AI increasing in education, and specifically Software Engineering, it has seen many cases in effectively completing assignments for the students without the students having to do much if anything at all. In this course, I have used ChatGPT in rare cases to aid me in generating code for quizzes and assignments.
 
-II. Personal Experience with AI:
+#Personal Experience with AI:
 
 For the Experience WODs, I have not used AI since they usually have solutions posted for each assignment.
 
@@ -30,25 +30,20 @@ For learning a concept / tutorial, I did not use AI because there was no need to
 
 For answering questions in class / in Discord, I did not use AI because 
 
-
----
-
-III. Impact on Learning and Understanding:
-Discuss how the incorporation of AI has influenced your learning experience. Consider its impact on comprehension, skill development, and problem-solving abilities. Reflect on whether AI technologies have enhanced or challenged your understanding of software engineering concepts.
-
+#Impact on Learning and Understanding:
 Ever since I have incorporated AI into my skill development and learning, I have noticed that I have not fully developed or learned much of the topic at hand. Admittedly, it is not necessary to learn a specific skill to its utmost potential to use it in "practice," however, my usage of AI got to a point where I would use the AI-generated solution in cases where I did not learn a concept to its practical level for me to utilize. As such, it is very simple of me to say that I relied on AI too much for me to consider myself well-learned in software engineering to some degree.
 
-IV. Practical Applications:
+#Practical Applications:
 Explore any practical applications of AI outside ICS 314. For instance, discuss if AI has been used in real-world projects, simulations, or collaborative activities (for example the HACC). Evaluate the effectiveness of AI applications in addressing real-world software engineering challenges.
 
-V. Challenges and Opportunities:
+#Challenges and Opportunities:
 Identify any challenges or limitations you have encountered in the use of AI within the course. Discuss potential opportunities for further integration of AI in software engineering education.
 
-VI. Comparative Analysis:
+#Comparative Analysis:
 Provide a comparative analysis between traditional teaching methods and AI-enhanced approaches in the context of software engineering education. Consider aspects like engagement, knowledge retention, and practical skill development.
 
-VII. Future Considerations:
+#Future Considerations:
 Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
 
-VIII. Conclusion:
+#Conclusion:
 Summarize your reflections and insights regarding the use of AI in the Software Engineering course. Conclude with any recommendations or suggestions for optimizing the integration of AI in future courses.

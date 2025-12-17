@@ -11,9 +11,11 @@ labels:
 ---
 
 I. Introduction
-Begin with an introduction to the role of AI in education and its specific relevance to Software Engineering. Present an overview of the key concepts or tools related to AI that you have used generally and in ICS 314. Mention which AI tools you have made use of e.g. ChatGPT, Bard, Co-Pilot
+
+With the prevelance of AI increasing in education, and specifically Software Engineering, it has seen many cases in effectively completing assignments for the students without the students having to do much if anything at all. In this course, I have used ChatGPT in rare cases to aid me in generating code for quizzes and assignments.
 
 II. Personal Experience with AI:
+
 Reflect on your personal experiences with AI technologies within ICS 314. Provide specific examples of how you have used AI or explanations as to why you have not used AI (e.g. “I tried it for xxx and found it did not give useful results” or “I thought it important for me to find an answer on my own.”) for each of the following course elements:
 
 Experience WODs e.g. E18

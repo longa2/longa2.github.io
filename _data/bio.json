@@ -13,14 +13,13 @@
   },
   "interests": [
     { "name": "Cybersecurity" },
-    { "name": "Computers" },
     { "name": "Gaming" },
     { "name": "Music" }
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML" ]
+      "keywords": [ "C/C++", "Java", "Typescript", "HTML" ]
     }
   ],
   "education": [

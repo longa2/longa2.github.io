@@ -44,7 +44,7 @@ I did not use AI because there was no need to in learning new concepts.
 
 ### Answering questions in class / in Discord
 
-I did not use AI because 
+Although I did not use AI in answering questions in Discord - mainly due to the questions not being too difficult to answer - I have used AI in answering questions in class. This is because of the professor encouraging the use of AI to answer definitional items in certain cases.
 
 ## Impact on Learning and Understanding:
 Ever since I have incorporated AI into my skill development and learning, I have noticed that I have not fully developed or learned much of the topic at hand. Admittedly, it is not necessary to learn a specific skill to its utmost potential to use it in "practice," however, my usage of AI got to a point where I would use the AI-generated solution in cases where I did not learn a concept to its practical level for me to utilize. As such, it is very simple of me to say that I relied on AI too much for me to consider myself well-learned in software engineering to some degree.

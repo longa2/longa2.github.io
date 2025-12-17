@@ -16,19 +16,33 @@ With the prevelance of AI increasing in education, and specifically Software Eng
 
 ## Personal Experience with AI:
 
-For the Experience WODs, I have not used AI since they usually have solutions posted for each assignment.
+### Experience WODs
 
-For In-class Practice WODs, I have not used AI mainly due to the fact that we were able to complete and turn in the WOD outside of class time.
+I have not used AI since they usually have solutions posted for each assignment.
 
-For In-class WODs, I have used AI only on the last few of the WODs of the semester, i.e. Nextjs 1 and UI Design (React), among others. The reason why I did not use AI on many of the WODs is due to me not feeling compelled to use AI, however, only when I felt cornered by the time constraint did I feel the need to use AI to generate code for me. There were a few times where I copy-pasted the instructions of the WOD to generate me a solution.
+### In-class Practice WODs
 
-For essays, I did not use AI because it was writing, not coding under a time limit.
+I have not used AI mainly due to the fact that we were able to complete and turn in the WOD outside of class time.
 
-For the Final Project, I used AI to help generate code whenever I was stuck on how to code a particular feature.
+### In-class WODs
 
-For learning a concept / tutorial, I did not use AI because there was no need to in learning new concepts.
+I have used AI only on the last few of the WODs of the semester, i.e. Nextjs 1 and UI Design (React), among others. The reason why I did not use AI on many of the WODs is due to me not feeling compelled to use AI, however, only when I felt cornered by the time constraint did I feel the need to use AI to generate code for me. There were a few times where I copy-pasted the instructions of the WOD to generate me a solution.
 
-For answering questions in class / in Discord, I did not use AI because 
+### Essays
+
+I did not use AI because it was writing, not coding under a time limit.
+
+### Final Project
+
+I used AI to help generate code whenever I was stuck on how to code a particular feature.
+
+### Learning a concept / tutorial
+
+I did not use AI because there was no need to in learning new concepts.
+
+### Answering questions in class / in Discord
+
+I did not use AI because 
 
 ## Impact on Learning and Understanding:
 Ever since I have incorporated AI into my skill development and learning, I have noticed that I have not fully developed or learned much of the topic at hand. Admittedly, it is not necessary to learn a specific skill to its utmost potential to use it in "practice," however, my usage of AI got to a point where I would use the AI-generated solution in cases where I did not learn a concept to its practical level for me to utilize. As such, it is very simple of me to say that I relied on AI too much for me to consider myself well-learned in software engineering to some degree.

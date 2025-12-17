@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "AI Reflection"
+# All dates must be YYYY-MM-DD format!
+date: 2025-12-16
+published: true
+labels:
+  - AI
+  - ICS314
+---
+
 I. Introduction
 Begin with an introduction to the role of AI in education and its specific relevance to Software Engineering. Present an overview of the key concepts or tools related to AI that you have used generally and in ICS 314. Mention which AI tools you have made use of e.g. ChatGPT, Bard, Co-Pilot
 

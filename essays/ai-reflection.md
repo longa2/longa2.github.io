@@ -71,7 +71,7 @@ Identify any challenges or limitations you have encountered in the use of AI wit
 Provide a comparative analysis between traditional teaching methods and AI-enhanced approaches in the context of software engineering education. Consider aspects like engagement, knowledge retention, and practical skill development.
 
 ## Future Considerations:
-Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
+The future prospect of AI in software engineering education is still in its early stages. The more people use AI, the more AI is trained and developed further to reach its potential. Thus, at some point, there may come a time when almost everyone is reliant on AI to do even the simplest of things. In software engineering education, AI is already being used to generate code such that students could simply "vibe-code" their way through the course. But, although it seems that AI is the easy way out, there are some cases where using AI is detrimental in a student's education. If in fact the student vibe-codes their way through, their effective learning of the course material becomes essentially void due to the reliancy of AI. As such, at the moment it seems that AI is effectively being used more as a Wikipedia search that can also adapt and provide examples/solutions to problems.
 
 ## Conclusion:
 Summarize your reflections and insights regarding the use of AI in the Software Engineering course. Conclude with any recommendations or suggestions for optimizing the integration of AI in future courses.

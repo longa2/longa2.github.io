@@ -16,46 +16,46 @@ With the prevelance of AI increasing in education, and specifically Software Eng
 ## Personal Experience with AI:
 Here is a list of all the areas I have or have not used AI.
 
-### Experience WODs
+#### Experience WODs
 I have not used AI since they usually have solutions posted for each assignment.
 
-### In-class Practice WODs
+#### In-class Practice WODs
 I have not used AI mainly due to the fact that we were able to complete and turn in the WOD outside of class time.
 
-### In-class WODs
+#### In-class WODs
 I have used AI only on the last few of the WODs of the semester, i.e. Nextjs 1 and UI Design (React), among others. The reason why I did not use AI on many of the WODs is due to me not feeling compelled to use AI, however, only when I felt cornered by the time constraint did I feel the need to use AI to generate code for me. There were a few times where I copy-pasted the instructions of the WOD to generate me a solution.
 
-### Essays
+#### Essays
 I did not use AI because it was writing, not coding under a time limit.
 
-### Final Project
+#### Final Project
 I used AI to help generate code whenever I was stuck on how to code a particular feature.
 
-### Learning a concept / tutorial
+#### Learning a concept / tutorial
 I did not use AI because there was no need to in learning new concepts.
 
-### Answering questions in class / in Discord
+#### Answering questions in class / in Discord
 Although I did not use AI in answering questions in Discord - mainly due to the questions not being too difficult to answer - I have used AI in answering questions in class. This is because of the professor encouraging the use of AI to answer definitional items in certain cases.
 
-### Asking or answering a smart-question
+#### Asking or answering a smart-question
 Ai was not used in asking or answering a smart-question, mainly because I never asked or answered a smart-question to begin with.
 
-### Coding example
+#### Coding example
 
 
-### Explaining code
+#### Explaining code
 At times when I have used AI, there were times that when generating code the AI will summarize the code it has generated as a type of auto-response. However, I otherwise did not use AI to help explain code that I did not understand, because I found no case in my time in ICS 314 where I needed AI to help explain any code - let alone feeling compelled to even use it for that purpose.
 
-### Writing code
+#### Writing code
 I have used AI many times to write code for me, especially in cases where I do not understand how to code in some practical cases. Otherwise, I may also use AI in generating code even in simpler use cases because it is much easier to let AI do the job, particularly when a task is much simpler to do even for a person.
 
-### Documenting code
+#### Documenting code
 As far as documenting code, I did not find myself using AI, because although using AI would make things incredibly simpler, I did not feel compelled to or have found the necessity in using AI to document code in my experience.
 
-### Quality assurance
+#### Quality assurance
 I have not used AI in following quality assurance purposes, because for any and all corrections that was needed, I have done so on my own with no AI help.
 
-### Other uses in ICS 314 not listed
+#### Other uses in ICS 314 not listed
 In other cases in ICS 314, I did not find myself using AI because I found no such necessity in using it.
 
 ## Impact on Learning and Understanding:

@@ -7,7 +7,7 @@ date: 2025-12-16
 published: true
 labels:
   - AI
-  - ICS314
+  - ICS 314
 ---
 
 ## Introduction

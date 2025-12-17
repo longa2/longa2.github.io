@@ -50,13 +50,13 @@ At times when I have used AI, there were times that when generating code the AI 
 I have used AI many times to write code for me, especially in cases where I do not understand how to code in some practical cases. Otherwise, I may also use AI in generating code even in simpler use cases because it is much easier to let AI do the job, particularly when a task is much simpler to do even for a person.
 
 ### Documenting code
-
+As far as documenting code, I did not find myself using AI, because although using AI would make things incredibly simpler, I did not feel compelled to or have found the necessity in using AI to document code in my experience.
 
 ### Quality assurance
-
+I have not used AI in following quality assurance purposes, because for any and all corrections that was needed, I have done so on my own with no AI help.
 
 ### Other uses in ICS 314 not listed
-
+In other cases in ICS 314, I did not find myself using AI because I found no such necessity in using it.
 
 ## Impact on Learning and Understanding:
 Ever since I have incorporated AI into my skill development and learning, I have noticed that I have not fully developed or learned much of the topic at hand. Admittedly, it is not necessary to learn a specific skill to its utmost potential to use it in "practice," however, my usage of AI got to a point where I would use the AI-generated solution in cases where I did not learn a concept to its practical level for me to utilize. As such, it is very simple of me to say that I relied on AI too much for me to consider myself well-learned in software engineering to some degree.

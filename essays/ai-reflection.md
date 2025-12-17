@@ -16,6 +16,8 @@ With the prevelance of AI increasing in education, and specifically Software Eng
 
 ## Personal Experience with AI:
 
+Here is a list of all the areas I have or have not used AI
+
 ### Experience WODs
 
 I have not used AI since they usually have solutions posted for each assignment.

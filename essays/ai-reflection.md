@@ -75,3 +75,4 @@ The future prospect of AI in software engineering education is still in its earl
 
 ## Conclusion:
 Summarize your reflections and insights regarding the use of AI in the Software Engineering course. Conclude with any recommendations or suggestions for optimizing the integration of AI in future courses.
+AI can be used effectively - if only responsibly. Simply put, there are times where being too reliant on AI is detrimental to the education, while using AI in certain cases can be incredibly profound and useful for said education. As for using AI responsibly, if there is some type of restriction in place to disallow AI from being used too excessively, it may help in furthering the benefits of using AI for software engineering education.

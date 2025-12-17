@@ -41,7 +41,7 @@ Although I did not use AI in answering questions in Discord - mainly due to the 
 Ai was not used in asking or answering a smart-question, mainly because I never asked or answered a smart-question to begin with.
 
 #### Coding example
-
+In the case of using AI to provide coding examples, I have never done so, because if AI can be used to generate legitamite solutions, then why would I generate coding examples even if I am just learning.
 
 #### Explaining code
 At times when I have used AI, there were times that when generating code the AI will summarize the code it has generated as a type of auto-response. However, I otherwise did not use AI to help explain code that I did not understand, because I found no case in my time in ICS 314 where I needed AI to help explain any code - let alone feeling compelled to even use it for that purpose.

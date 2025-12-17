@@ -38,9 +38,9 @@ I did not use AI because there was no need to in learning new concepts.
 Although I did not use AI in answering questions in Discord - mainly due to the questions not being too difficult to answer - I have used AI in answering questions in class. This is because of the professor encouraging the use of AI to answer definitional items in certain cases.
 
 ### Asking or answering a smart-question
+Ai was not used in asking or answering a smart-question, mainly because I never asked or answered a smart-question to begin with.
 
-
-### Coding example e.g. “give an example of using Underscore .pluck”
+### Coding example
 
 
 ### Explaining code

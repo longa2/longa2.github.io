@@ -11,4 +11,7 @@ labels:
 ---
 
 ## What is Software Engineering
-Software Engineering is a multitude of various ideas and processes meshed together coherently such that it culminates into a project well-designed and intended for some practical use.
+Software Engineering includes a multitude of various tools and processes meshed together coherently such that it culminates into a project designed and intended for some practical use.
+
+## Open Source Software Development
+Among the many tools at a software engineer's disposal are open source software. Open source software refers to software that has been developed by many people far and wide. It is the opposite of proprietary software in which that is developed by a dedicated team. One such notable software is GitHub, a place where projects are stored in "repositories" and are often actively being developed on by various people. GitHub is well-known - and thus often used - for how well it maintains such projects. 

@@ -16,32 +16,27 @@ With the prevelance of AI increasing in education, and specifically Software Eng
 
 II. Personal Experience with AI:
 
-Reflect on your personal experiences with AI technologies within ICS 314. Provide specific examples of how you have used AI or explanations as to why you have not used AI (e.g. “I tried it for xxx and found it did not give useful results” or “I thought it important for me to find an answer on my own.”) for each of the following course elements:
+For the Experience WODs, I have not used AI since they usually have solutions posted for each assignment.
 
-Experience WODs e.g. E18
-In-class Practice WODs
-In-class WODs
-Essays
-Final project
-Learning a concept / tutorial
-Answering a question in class or in Discord
-Asking or answering a smart-question
-Coding example e.g. “give an example of using Underscore .pluck”
-Explaining code
-Writing code
-Documenting code
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
-Other uses in ICS 314 not listed
-Copy the list above and address each one. Be sure give specific examples including what prompts you used. For example:
+For In-class Practice WODs, I have not used AI mainly due to the fact that we were able to complete and turn in the WOD outside of class time.
 
-For the Functional programming WOD I asked ChatGPT “Write a function using underscore to implement the following instructions <WOD instructions here>”
+For In-class WODs, I have used AI only on the last few of the WODs of the semester, i.e. Nextjs 1 and UI Design (React), among others. The reason why I did not use AI on many of the WODs is due to me not feeling compelled to use AI, however, only when I felt cornered by the time constraint did I feel the need to use AI to generate code for me. There were a few times where I copy-pasted the instructions of the WOD to generate me a solution.
 
-For each example, discuss how useful AI was (or was not useful) and the benefits and costs of using it in each example e.g. “I would not know how to start without ChatGPT, but the result was not exactly what was needed and it took a lot of time with trial and error to get a workable result.”.
+For essays, I did not use AI because it was writing, not coding under a time limit.
 
-IMPORTANT Again, if you did not use AI for a course element listed, discuss why you did not, especially if you tried to use AI but found it not helpful or not worth the effort. Do not simply list “I din’t use AI for this element.”
+For the Final Project, I used AI to help generate code whenever I was stuck on how to code a particular feature.
+
+For learning a concept / tutorial, I did not use AI because there was no need to in learning new concepts.
+
+For answering questions in class / in Discord, I did not use AI because 
+
+
+---
 
 III. Impact on Learning and Understanding:
 Discuss how the incorporation of AI has influenced your learning experience. Consider its impact on comprehension, skill development, and problem-solving abilities. Reflect on whether AI technologies have enhanced or challenged your understanding of software engineering concepts.
+
+Ever since I have incorporated AI into my skill development and learning, I have noticed that I have not fully developed or learned much of the topic at hand. Admittedly, it is not necessary to learn a specific skill to its utmost potential to use it in "practice," however, my usage of AI got to a point where I would use the AI-generated solution in cases where I did not learn a concept to its practical level for me to utilize. As such, it is very simple of me to say that I relied on AI too much for me to consider myself well-learned in software engineering to some degree.
 
 IV. Practical Applications:
 Explore any practical applications of AI outside ICS 314. For instance, discuss if AI has been used in real-world projects, simulations, or collaborative activities (for example the HACC). Evaluate the effectiveness of AI applications in addressing real-world software engineering challenges.

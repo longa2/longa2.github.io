@@ -44,15 +44,15 @@ Although I did not use AI in answering questions in Discord - mainly due to the 
 
 
 ### Explaining code
-
+At times when I have used AI, there were times that when generating code the AI will summarize the code it has generated as a type of auto-response. However, I otherwise did not use AI to help explain code that I did not understand, because I found no case in my time in ICS 314 where I needed AI to help explain any code - let alone feeling compelled to even use it for that purpose.
 
 ### Writing code
-
+I have used AI many times to write code for me, especially in cases where I do not understand how to code in some practical cases. Otherwise, I may also use AI in generating code even in simpler use cases because it is much easier to let AI do the job, particularly when a task is much simpler to do even for a person.
 
 ### Documenting code
 
 
-### Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+### Quality assurance
 
 
 ### Other uses in ICS 314 not listed

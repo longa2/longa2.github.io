@@ -7,9 +7,8 @@ date: 2025
 published: true
 labels:
   - ICS 314
-  - Nextjs
-  - React
-  - Bootstrap
+  - Web Development
+  - Lost & Found
 summary: "Rainbow Reclamation is designed to aid students in finding their lost items."
 ---
 

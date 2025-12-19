@@ -1,27 +1,18 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/marching-band/mohs-logo.png
 title: "Marching Band"
 date: 2016 - 2019
-published: false
+published: true
 labels:
   - Music
   - Performance
-  - Athletics
 summary: "I performed as part of the Moanalua High School Marching Band"
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img width="200px" src="../img/marching-band/hawaii-parade-march.jpg">
 
-
+Throughout my entire high school career, I was a part of my high school's marching band. Within my time, I have partook in many parade marches, musical performances, and marching shows.
 
 Here is a video of one of our performances that I performed in:
-
-
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).

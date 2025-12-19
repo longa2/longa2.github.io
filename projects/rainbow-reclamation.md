@@ -13,8 +13,10 @@ labels:
 summary: "Rainbow Reclamation is designed to aid in the organization of students who may have lost any item."
 ---
 
-<img width="50%" class="img-fluid" src="../img/rainbow-reclamation/rainbow-reclamation-homepage.png">
-<img width="50%" class="img-fluid" src="../img/rainbow-reclamation/rainbow-reclamation-bounty-board.png">
+<div class="row">
+  <img width="50%" class="img-fluid" src="../img/rainbow-reclamation/rainbow-reclamation-homepage.png">
+  <img width="50%" class="img-fluid" src="../img/rainbow-reclamation/rainbow-reclamation-bounty-board.png">
+</div>
 
 Rainbow Reclamation is a website project created for my ICS 314 class. Me, along with three other developers, have teamed up together to improve UH Manoa's current Lost & Found website so that it may encourage people to go out and find people's lost items. This project utilizes a database that allows the storage of information of any person's lost item.
 

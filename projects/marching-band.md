@@ -17,7 +17,7 @@ Throughout my entire high school career, I was a part of my high school's marchi
 
 In the marching band, I was one of the performers that played the trumpet instrument. Consistently, we as a band come together weekly to practice our performance shows, marching, and music.
 
-What I have learned through this experience is that nothing comes from doing nothing. In other words, great work comes about from great effort whether if it were in the arts, sciences, and such. As such, I have committed myself more to the art of performance as part of this marching band. 
+What I have learned through this experience is that nothing comes from doing nothing. In other words, great work comes about from great effort whether if it were in the arts, sciences, and such. As such, I have committed myself to the art of performance as part of this marching band. In my time as part of this band, I have thoroughly enjoyed the time performing with many of my marching band's members, whether or not we played the same instrument.
 
 One of my favorite performances that we did was based on the '1001 Arabian Nights' called 'SCHEHERAZADE.'
 Here is a video of one of our performances on [Youtube](https://www.youtube.com/watch?v=viIGAdwvqhQ&list=RDviIGAdwvqhQ&start_radio=1).

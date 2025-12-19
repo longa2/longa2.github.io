@@ -13,7 +13,7 @@ labels:
 summary: "Rainbow Reclamation is designed to aid in the organization of students who may have lost any item."
 ---
 
-<div class="row">
+<div class="row justify-content-center">
   <img width="25%" class="img-fluid" src="../img/rainbow-reclamation/rainbow-reclamation-homepage.png">
   <img width="25%" class="img-fluid" src="../img/rainbow-reclamation/rainbow-reclamation-bounty-board.png">
 </div>

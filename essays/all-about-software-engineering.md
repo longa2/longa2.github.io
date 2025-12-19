@@ -10,6 +10,8 @@ labels:
   - ICS 314
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/all-about-software-engineering-image.jpg">
+
 ## What is Software Engineering
 Software Engineering includes a multitude of various tools, methodologies, and ideas meshed together coherently such that it culminates into a project designed and intended for some practical use. Some particular tools and methodologies are used so often that many software engineers make it synonymous to the process of software engineering. 
 

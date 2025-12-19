@@ -15,4 +15,4 @@ summary: "I performed as part of the Moanalua High School Marching Band"
 
 Throughout my entire high school career, I was a part of my high school's marching band. Within my time, I have partook in many parade marches, musical performances, and marching shows.
 
-Here is a video of one of our performances: [https://www.youtube.com/watch?v=viIGAdwvqhQ&list=RDviIGAdwvqhQ&start_radio=1](https://www.youtube.com/watch?v=viIGAdwvqhQ&list=RDviIGAdwvqhQ&start_radio=1)
+Here is a video of one of our performances on [Youtube](https://www.youtube.com/watch?v=viIGAdwvqhQ&list=RDviIGAdwvqhQ&start_radio=1).

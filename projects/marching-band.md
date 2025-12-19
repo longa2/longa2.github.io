@@ -11,7 +11,7 @@ labels:
 summary: "I performed as part of the Moanalua High School Marching Band"
 ---
 
-<img width="200px" src="../img/marching-band/hawaii-parade-march.jpg">
+<img width="50%" src="../img/marching-band/hawaii-parade-march.jpg">
 
 Throughout my entire high school career, I was a part of my high school's marching band. Within my time, I have partook in many parade marches, musical performances, and marching shows.
 

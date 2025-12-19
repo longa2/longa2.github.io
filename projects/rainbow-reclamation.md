@@ -17,4 +17,4 @@ summary: "Rainbow Reclamation is designed to aid in the organization of students
 
 This is a software project created for my ICS 314 class. It is a website designed specifically to  help those who have lost any of their items. 
 
-Here is the software<a href="https://manoa-warrior-collective.github.io/"><i class="large github icon "></i>project page</a>.
+Here is the software <a href="https://manoa-warrior-collective.github.io/"><i class="large github icon "></i>project page</a>.
